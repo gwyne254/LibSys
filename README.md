@@ -1,6 +1,9 @@
 # LibSys
 Library Management and Study Room Booking System
 
+## Booking a Study Room Demo
+[![Watch the video](/Screenshots/Screenshot_2022-12-15_23_30_40.png)](https://youtu.be/P6fAQdwYcvU)
+
 ## Screens
 
 ### Home
